@@ -8,4 +8,4 @@
 - planning on learning: x86, rust and flutter (and also get better on all of the above) <br> <br> 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=awyxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues)
+![stats](https://github-readme-stats.vercel.app/api?username=robyzzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues)
