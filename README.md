@@ -4,7 +4,7 @@
 - good at: mostly nothing <br>
 - main interests: low-level programming and reverse engineering <br>
 - currently learning: cpp and kotlin <br>
-- some soft skills i have: c, sourcepawn, javascript/typescript (fullstack MEVN), sql, vb.net <br>
+- some soft skills i have: c, javascript/typescript (fullstack MEVN), sourcepawn, sql, vb.net <br>
 - planning on learning: x86, rust and flutter (and also get better on all of the above) <br> <br> 
 
 
