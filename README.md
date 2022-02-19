@@ -4,7 +4,7 @@
 - good at: mostly nothing <br>
 - main interests: reverse engineering and low-level programming<br>
 - currently learning: kotlin and c++ <br>
-- some soft skills i have: c, nodejs, expressjs, vue/nuxt, sql, sourcepawn, vb.net <br>
+- some soft skills i have: c, nodejs, expressjs, vue/nuxtjs, sql, sourcepawn, vb.net <br>
 - planning on learning: x86-64 asm and rust (and also get better on all of the above) <br> <br> 
 
 
