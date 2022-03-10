@@ -3,9 +3,9 @@
 - 18yo from portugal <br>
 - good at: mostly nothing <br>
 - main interests: reverse engineering and low-level programming<br>
-- currently learning: kotlin and c++ <br>
-- some soft skills i have: c, nodejs, expressjs, vue/nuxtjs, sql, sourcepawn, vb.net <br>
-- planning on learning: x86-64 asm and rust (and also get better on all of the above) <br> <br> 
+- currently learning: c++ and kotlin <br>
+- some soft skills i have: c, expressjs, vue/nuxt, (p)sql, sourcepawn, vb.net <br>
+- planning on learning: x86 asm and rust <br> <br> 
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=robyzzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues)
