@@ -1,7 +1,7 @@
 ### 👽 me
 
 - 18yo from portugal <br>
-- good at: mostly nothing <br>
+- good at: `nullptr` <br>
 - main interests: reverse engineering, compilers, emulators, operating systems... <br>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=roby2014&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues)
