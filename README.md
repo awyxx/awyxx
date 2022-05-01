@@ -2,7 +2,7 @@
 
 - 18yo from portugal <br>
 - good at: `nullptr` <br>
-- main interests: reverse engineering, compilers, emulators, operating systems... <br>
+- main interests: reverse engineering, emulators, operating systems... <br>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=roby2014&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues)
 <img width="32%" align="right" alt="cbook" src="https://c.tenor.com/NYrgLNGuy7YAAAAC/the-c-programming-language-uncle-dane.gif"/>
