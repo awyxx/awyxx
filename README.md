@@ -1,5 +1,5 @@
 ##
-19yo student with a lot of interest in reverse engineering, compilers, emulators systems programming and FPGAs.
+19yo student with a lot of interest in reverse engineering, compilers, emulators and FPGAs.
 
 check [my website](http://roby2014-me.vercel.app/) for cool stuff about the above topics (and others as well).
 
